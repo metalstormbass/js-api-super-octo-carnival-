@@ -1,0 +1,17 @@
+{
+  "name": "js_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.25.0",
+    "listr": "^0.14.3",
+    "minimist": "^1.2.5"
+  }
+}
